@@ -1,0 +1,13 @@
+h1{ 
+    width:40%;
+    text-align: center;
+    size:3rem;
+    font-family: cursive;
+    color:rgb(244, 85, 5);
+}
+body{
+    background-image: url(bg3.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-color: black;
+}

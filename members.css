@@ -1,0 +1,21 @@
+
+body{
+    background-image: url(bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    color:rgb(244, 85, 5)
+}
+
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    width:40%;
+    text-align: center;
+    color:rgb(244, 85, 5)
+}
